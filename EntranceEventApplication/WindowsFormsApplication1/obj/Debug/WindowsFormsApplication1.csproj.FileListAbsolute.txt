@@ -1,0 +1,2 @@
+D:\FONTYS\PROP\EntranceEventApplication\EntranceEventApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FONTYS\PROP\Aplications\EntranceEventApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
